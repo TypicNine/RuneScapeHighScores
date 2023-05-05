@@ -1,0 +1,15 @@
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\bin\Debug\net6.0\RuneScapeHiScores.exe
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\bin\Debug\net6.0\RuneScapeHiScores.deps.json
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\bin\Debug\net6.0\RuneScapeHiScores.runtimeconfig.json
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\bin\Debug\net6.0\RuneScapeHiScores.dll
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\bin\Debug\net6.0\RuneScapeHiScores.pdb
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.csproj.AssemblyReference.cache
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.AssemblyInfoInputs.cache
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.AssemblyInfo.cs
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.csproj.CoreCompileInputs.cache
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.dll
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\refint\RuneScapeHiScores.dll
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.pdb
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\RuneScapeHiScores.genruntimeconfig.cache
+C:\Users\Betab\OneDrive\Desktop\Personal Projects\RuneScapeHiScores\obj\Debug\net6.0\ref\RuneScapeHiScores.dll
